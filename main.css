@@ -136,7 +136,7 @@ you can add them directly to the <div id="header"></div> element! */
 
     /* navigation link when a link is hovered over */
     #navbar li a:hover {
-        color: #a49cba;
+        color: #8DDAE4;
         text-decoration: underline;
     }
 
