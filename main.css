@@ -10,7 +10,7 @@
         --header-image: url('./imgs/itshed.png');
         --body-bg-image: url('./imgs/medbluesatinbg.gif');
         /* colors */
-        --content: ##366491;
+        --content: #366491;
     }
 
     /* if you have the URL of a font, you can set it below */
@@ -51,7 +51,7 @@ and then link it! Many fonts have separate files for each style
     body {
         font-family: 'Nunito', sans-serif;
         margin: 0;
-        background-color: #366491;
+        background-color: #3584B1;
         /* you can delete the line below if you'd prefer to not use an image */
         background-size: 65px;
         color: #fceaff;
